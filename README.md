@@ -1,5 +1,5 @@
-# Unichat Application
+# MAQchat 
 
-with social authentication
+With social authentication using Firebase.
 
 
